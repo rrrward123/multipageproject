@@ -1,0 +1,20 @@
+
+body {
+
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    line-height: 200px;
+  color: blue;
+
+}
+h1 {
+  /text("She speaks in different tones", 150, 600);
+  //text("She loves so fearlessly", 70, 800);
+  //text("She is the moon, and I am the Sun",60, 1000);
+  //text("Jimmy, You can't do that", 60, 200);
+  //textSize(30);
+  //text("But Mom, Why not", 60, 300);
+  //text("Jimmy, you can't be going around being selfish", 60, 400);
+  color: green;
+
+}
